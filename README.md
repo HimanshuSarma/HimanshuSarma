@@ -14,7 +14,7 @@ I specialize in building high-availability, cost-optimized cloud infrastructure 
 | **Infrastructure as Code** | Terraform, Ansible |
 | **CI/CD & Automation** | GitHub Actions, Azure DevOps Pipelines |
 | **Observability & Caching** | Prometheus, Grafana, Redis, MySQL, StatefulSets |
-| **Development & Real-Time** | Node.js, React.js, React Native, Laravel, Python, WebSockets (Redis Adapter & ALB Sticky Sessions) |
+| **Development & Real-Time** | C#, .NET, Node.js, React.js, React Native, Laravel, Python, WebSockets (Redis Adapter & ALB Sticky Sessions) |
 
 ---
 
